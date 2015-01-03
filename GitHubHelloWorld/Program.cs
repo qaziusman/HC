@@ -12,6 +12,7 @@ namespace GitHubHelloWorld
         {
             Console.Write("Hello World!");
             Console.Write("Comment From Online Github.");
+            Console.Write("Test commit to test fetch");
         }
     }
 }
